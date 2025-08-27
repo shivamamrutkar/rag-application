@@ -27,7 +27,7 @@ from langchain.chains import RetrievalQA
 
 # --- Setup ---
 load_dotenv()
-GOOGLE_API_KEY = 'AIzaSyCAjhG5L_yiKZYMQW0BCrsGEtelW5eLveU'
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 if not GOOGLE_API_KEY:
     st.error("Set GOOGLE_API_KEY in .env and restart. See README instructions.")
     st.stop()
