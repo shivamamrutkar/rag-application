@@ -8,6 +8,9 @@ A lightweight **Retrieval-Augmented Generation (RAG)** implementation using:
 
 This app lets you **upload a PDF and ask questions** about it, with Gemini grounding answers in the retrieved document chunks.
 
+<img width="1223" height="657" alt="image" src="https://github.com/user-attachments/assets/d6e5e6e3-9bde-4fdb-b276-fdf42e360f06" />
+
+
 ---
 
 ## 🔗 Link: [Live Demo](https://simple-rag.streamlit.app/)
