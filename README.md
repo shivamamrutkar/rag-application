@@ -105,9 +105,3 @@ You’ll be prompted to:
 ## 📜 License
 
 MIT License — free to use, modify, and learn from.
-
----
-
-This README keeps it **minimal and practical**, matching the **simple script version** of the RAG app.
-
-👉 Do you want me to also include a **sample code snippet** (like a "Hello world" run-through) inside the README, or keep it lean like this?
