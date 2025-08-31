@@ -40,7 +40,7 @@ simple-rag/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/simple-rag.git
+git clone https://github.com/shivamamrutkar/rag-application.git
 cd simple-rag
 ```
 
